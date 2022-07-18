@@ -1,1 +1,1 @@
-Source Codes for Deep Ensemble CNNs for COVID 19 Chest Xray Classification
+Source Codes for Deep Ensemble CNNs models for COVID 19 Chest Xray Classification
