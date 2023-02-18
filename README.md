@@ -1,2 +1,5 @@
-Source Codes for Deep Ensemble CNNs models for COVID 19 Chest Xray Classification.
+<h1> Deep Ensemble Approaches for Classification of COVID-19 in Chest X-Ray Images </h1> 
+
 DOI : https://doi.org/10.1109/3ict53449.2021.9581389
+
+The COVID-19 pandemic has severely crippled the healthcare industry as a whole. Efficient screening techniques are crucial to suppress the escalation of the disease. Medical image analysis of chest X-rays has recently become increasingly important in radiology examination and screening of infected patients. Studies have shown that Deep CNN models can help in the diagnosis of this infection by automatically classifying chest X-ray images as infected or not. Ensemble modelling these Deep CNN architectures can further improve the performance by reducing the generalisation error when compared to a single model. This paper presents different Ensemble Learning approaches to synergize the features extracted by Deep CNN models to improve the classification. These automatic classification approaches can be used by radiologists to help identify infected chest X-rays and support resistance.
